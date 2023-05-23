@@ -120,6 +120,7 @@ export const Container = styled.main`
     padding: 33px 30px;
     width: 730px;
     height: 839px;
+    margin-top: 64px;
   }
 `;
 export const StyledMessage = styled.div`
