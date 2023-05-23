@@ -25,7 +25,7 @@ export default function Comment(props: Props) {
     >
       <div className="text-dot">
         <div className="text">
-          <img className="avatar" src={props.src} alt="mark"></img>
+          <img className="avatar" src={props.src} alt="avatar"></img>
           <div className="text-time">
             <p>
               <span className="clickable name">{props.name}</span>

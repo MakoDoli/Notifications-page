@@ -2,7 +2,7 @@
 
 export const Data1 = [
   {
-    src: "../../../../public/images/avatar-mark-webber.webp",
+    src: "../../images/avatar-mark-webber.webp",
     name: "Mark Webber",
     event: "reacted to your recent",
     post: "My first tournament today!",
@@ -45,7 +45,7 @@ export const Data1 = [
 ];
 export const Data2 = [
   {
-    src: "../../../../public/images/avatar-kimberly-smith.webp",
+    src: "../../images/avatar-kimberly-smith.webp",
     name: "Kimberly Smith",
     event: "commented on your picture",
     post: "",
@@ -56,7 +56,7 @@ export const Data2 = [
     classname: "chess-img",
   },
   {
-    src: "../../../../public/images/avatar-nathan-peterson.webp",
+    src: "../../images/avatar-nathan-peterson.webp",
     name: "Nathan Peterson",
     event: "reacted to your recent post",
     post: "5 end-game strategies to increase your win rate",
@@ -66,7 +66,7 @@ export const Data2 = [
     classname: "",
   },
   {
-    src: "../../../../public/images/avatar-anna-kim.webp",
+    src: "../../images/avatar-anna-kim.webp",
     name: "Anna Kim",
     event: "left the group",
     post: "",
